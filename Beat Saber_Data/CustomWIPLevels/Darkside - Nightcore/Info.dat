@@ -12,7 +12,7 @@
   "_shufflePeriod" : 0.5,
   "_coverImageFilename" : "cover.png",
   "_songFilename" : "Darkside - Nightcoe.ogg",
-  "_environmentName" : "DefaultEnvironment",
+  "_environmentName" : "TimbalandEnvironment",
   "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
   "_environmentNames" : [
   ],
@@ -22,7 +22,7 @@
     "_editors" : {
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.10.763"
+        "version" : "0.10.779"
       }
     }
   },
@@ -35,9 +35,14 @@
           "_difficultyRank" : 9,
           "_beatmapFilename" : "ExpertPlusStandard.dat",
           "_noteJumpMovementSpeed" : 18,
-          "_noteJumpStartBeatOffset" : -0.193,
+          "_noteJumpStartBeatOffset" : -0.237,
           "_beatmapColorSchemeIdx" : 0,
-          "_environmentNameIdx" : 0
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ]
+          }
         }
       ]
     }
