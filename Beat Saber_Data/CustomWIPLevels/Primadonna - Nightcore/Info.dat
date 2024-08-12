@@ -12,7 +12,7 @@
   "_shufflePeriod" : 0.5,
   "_coverImageFilename" : "cover.png",
   "_songFilename" : "Primadonna-Nightcore.ogg",
-  "_environmentName" : "DefaultEnvironment",
+  "_environmentName" : "TimbalandEnvironment",
   "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
   "_environmentNames" : [
   ],
@@ -34,10 +34,24 @@
           "_difficulty" : "ExpertPlus",
           "_difficultyRank" : 9,
           "_beatmapFilename" : "ExpertPlusStandard.dat",
-          "_noteJumpMovementSpeed" : 18,
+          "_noteJumpMovementSpeed" : 19,
           "_noteJumpStartBeatOffset" : -0.55,
           "_beatmapColorSchemeIdx" : 0,
-          "_environmentNameIdx" : 0
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_colorLeft" : {"r":1,"g":0,"b":0.394},
+            "_colorRight" : {"r":0,"g":0.663,"b":0.817},
+            "_envColorLeft" : {"r":1,"g":0.717,"b":0.368},
+            "_envColorRight" : {"r":0.678,"g":0.922,"b":0.579},
+            "_envColorWhite" : {"r":1,"g":1,"b":1},
+            "_envColorLeftBoost" : {"r":0.997,"g":0.576,"b":0.064},
+            "_envColorRightBoost" : {"r":0.522,"g":1,"b":0.331},
+            "_envColorWhiteBoost" : {"r":1,"g":1,"b":1},
+            "_obstacleColor" : {"r":0.82,"g":0.82,"b":0.82}
+          }
         }
       ]
     }
